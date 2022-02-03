@@ -1,0 +1,22 @@
+{
+    "self_mode": false,
+	"autobio": false,
+	"antihidetag": true,
+	"user_register": false,
+	"anti_delete" : false,
+	"anticall": true,
+	"auto_welcome_msg": true,
+	"auto_leave_msg": true,
+	"prefix": ".",
+	"language":"ind",
+	"ownerNumber": "6281317549796",
+	"ownerNumberr": "6281317549796",
+	"cr": "AldoChris",
+	"ownername": "AldoChris",
+	"botname":"AldoBotz",
+	"thumb":"luffy_1.jpg",
+	"thumbnail":"luffy_2.jpg",
+	"fakethumb":"luffy_1.jpg", 
+	"donasi":"donasi.jpg",
+	"fake": " 「  ALDOBOTZ  」\nCreated By AldoChris"
+}
